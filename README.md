@@ -1,6 +1,6 @@
 ### Numerical Methods
 
-## It Contains the following topics.
+**It contains the following topics.**
 
 1. [Bisection Method](./bisection/) 
 2. [False Position Method](./false_postive/)
