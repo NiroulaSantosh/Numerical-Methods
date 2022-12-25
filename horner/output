@@ -1,0 +1,9 @@
+Enter the degree of polynomial:
+2
+Enter the coefficent:
+a[2]:1
+a[1]:-1
+a[0]:-1
+Enter the point of evaluation value:
+2
+The required value is 1

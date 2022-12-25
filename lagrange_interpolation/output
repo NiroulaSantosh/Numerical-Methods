@@ -1,0 +1,9 @@
+Enter the value of n:
+4
+Enter the value of x and y [0][0]:0 2
+Enter the value of x and y [1][1]:1 3
+Enter the value of x and y [2][2]:2 12
+Enter the value of x and y [3][3]:5 147
+Enter two value for which y to determine:
+3
+The sum is: 35.000000

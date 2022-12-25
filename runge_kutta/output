@@ -1,0 +1,11 @@
+Enter Initial Condition
+x0 = 0
+y0 = 1
+Enter calculation point xn = 0.4
+Enter number of steps: 2
+
+x0      y0      yn
+0.0000  1.0000  1.1960
+0.2000  1.1960  1.3753
+
+Value of y at x = 0.400000 is 1.375267
