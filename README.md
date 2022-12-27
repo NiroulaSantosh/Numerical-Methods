@@ -18,3 +18,4 @@
 14. [Solution of differential equation using Euler's method](./eulars/)
 15. [Solution of differential equation using Runge-Kutta method](./runge_kutta/)
 16. [Netwon-Raphson method](./newton-raphson/)
+17. [Gauss Seidal Method](./gauss_seidal/)
